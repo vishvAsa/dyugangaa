@@ -35,4 +35,4 @@ We've hired a few people to type up precious manuals (besides collecting those a
 
 Further refer to [this presentation](https://vishvasa.github.io/kalpAntaram/dharmaH/vishvAsaH/kriyA-nishchayaH/meta-ritual/presentations/saMskAraH_kalpashcha) on the need for rituals, saMskAra-s and such. 
 
-<div class="js_include" url="/dyugangaa/projects/text/proofreading/contrib_related" unfilled newLevelForH1="1" includeTitle="false"> </div>  
+<div class="js_include" url="/dyumatsyAH/prakriyA/proofreading/contrib_related" unfilled newLevelForH1="1" includeTitle="false"> </div>  

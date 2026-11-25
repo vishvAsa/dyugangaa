@@ -15,4 +15,4 @@ We've hired a few people to type up precious texts (besides collecting those alr
   - वेङ्कटनाथार्यः - सङ्कल्प-सूर्योदयः
 - कलिविडम्बनम् - नीलकण्ठदीक्षितः 
 
-<div class="js_include" url="/dyugangaa/projects/text/proofreading/contrib_related" unfilled newLevelForH1="1" includeTitle="false"> </div>  
+<div class="js_include" url="/dyumatsyAH/prakriyA/proofreading/contrib_related" unfilled newLevelForH1="1" includeTitle="false"> </div>  

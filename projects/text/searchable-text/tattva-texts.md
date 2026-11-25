@@ -22,4 +22,4 @@ We've hired a few people to type up precious texts (besides collecting those alr
   - हयशीर्षोपाख्यानम्
 - सर्वात्म-शम्भु-सिद्धान्त-[प्रकाशीका](https://vishvasa.github.io/AgamaH_shaivaH/sampradAyaH/28-Agama-sampradAyaH/tattvam/sampradAyaH/aShTa-prakaraNa-shAkhA/parichaya-sanxepaH/sarvAtma-shambhu-siddhAnta-prakAshikA/)
 
-<div class="js_include" url="/dyugangaa/projects/text/proofreading/contrib_related" unfilled newLevelForH1="1" includeTitle="false"> </div>  
+<div class="js_include" url="/dyumatsyAH/prakriyA/proofreading/contrib_related" unfilled newLevelForH1="1" includeTitle="false"> </div>  
